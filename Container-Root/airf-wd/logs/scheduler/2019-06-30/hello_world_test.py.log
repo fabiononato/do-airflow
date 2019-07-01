@@ -1,0 +1,6 @@
+[2019-06-30 21:09:48,120] {jobs.py:398} INFO - Started process (PID=847) to work on /root/airflow/dags/hello_world_test.py
+[2019-06-30 21:09:48,122] {jobs.py:1711} INFO - Processing file /root/airflow/dags/hello_world_test.py for tasks to queue
+[2019-06-30 21:09:48,122] {logging_mixin.py:95} INFO - [2019-06-30 21:09:48,122] {__init__.py:305} INFO - Filling up the DagBag from /root/airflow/dags/hello_world_test.py
+[2019-06-30 21:09:48,127] {jobs.py:1723} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /root/airflow/dags/hello_world_test.py
+[2019-06-30 21:09:48,132] {logging_mixin.py:95} INFO - [2019-06-30 21:09:48,132] {__init__.py:4113} INFO - Creating ORM DAG for hello_world
+[2019-06-30 21:09:48,141] {jobs.py:406} INFO - Processing /root/airflow/dags/hello_world_test.py took 0.021 seconds
